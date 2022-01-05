@@ -1,5 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body {
+  color: white;
+  background-color: steelblue;
+  font-family: 'Poppins', Helvetica;
+}
+
 code {
     background-color: whitesmoke;
+    color: black;
 }
 
 section, header {
